@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.0.8
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ERIC
+$$ 2020-03-26 19:31:41.441 -0000  ERIC@ERIC-PC
+$$ C:/Bruker/TopSpin4.0.8/exp/stan/nmr/par/standard1D/outd
+$$ process C:\Bruker\TopSpin4.0.8\prog\mod\expinstall.exe
+##$CURPLOT= <>
+##$CURPRIN= <$>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

@@ -1,0 +1,24 @@
+##TITLE= Audit trail, TopSpin 4.0.8
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ERIC
+$$ C:\Users\ERIC\OneDrive/ja_PSYCHE_pr_03b_01.fid/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-04-16 12:45:51.258 +0100>,<ERIC>,<ERIC-PC>,<vconv>,<TopSpin 4.0.8>,
+      <vconv created from
+       C:\Users\ERIC\OneDrive\2-ethyl-1-indanone\Feb14154743\ja_PSYCHE_pr_03b_01.fid
+       data hash MD5: 15744
+       9A EB F3 D9 50 C7 90 DB 55 53 AD E3 AC C4 0D BF>)
+(   2,<2020-04-16 12:45:51.571 +0100>,<ERIC>,<ERIC-PC>,<proc1d>,<TopSpin 4.0.8>,
+      <Start of raw data processing
+       efp BC_mod = 2 LB = 0.3 FT_mod = 6 PKNL = 0 REVERSE PHC0 = 18.74318 PHC1 = 26.68021 SI = 32K 
+       data hash MD5: 32K
+       BA 8E FA B0 E7 79 85 21 42 D9 9E BA AE 83 98 0D>)
+(   3,<2020-04-16 12:45:51.639 +0100>,<ERIC>,<ERIC-PC>,<proc1d>,<TopSpin 4.0.8>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       3F 42 8C 80 4A 1C 37 A0 A0 5C 00 32 E4 F3 39 4D>)
+##END=
+
+$$ hash MD5
+$$ 8A 1A 4D B0 57 68 A4 32 64 F4 92 DA 86 07 18 6B

@@ -1,0 +1,17 @@
+##TITLE= Parameter file, TopSpin 4.0.8
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ERIC
+$$ 2020-04-16 16:44:22.124 +0100  ERIC@ERIC-PC
+$$ C:/Users/ERIC/OneDrive/gCOSY_01.fid/10/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin4.0.8\prog\mod\dataserver.exe
+##$DATPATH2= <C:/Users/ERIC/OneDrive>
+##$DU2= <>
+##$EXPNO2= 10
+##$NAME2= <ja_PSYCHE_pr_03b_01.fid>
+##$PROCNO2= 1
+##$TYPE= <>
+##$USER2= <>
+##END=

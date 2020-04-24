@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="ERIC" date="2020-04-16T12:48:35.201+01:00" expNo="10" name="ja_PSYCHE_pr_03b_01.fid" owner="" procNo="1" source="C:\Users\ERIC\OneDrive">
+      <PeakPickDetails>F1=10.513610ppm, F2=-0.513539ppm, MI=0.00cm, MAXI=10000.00cm, PC=10.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.738094" intensity="1.109015e+00" type="0"/>
+    <Peak1D F1="7.567316" intensity="1.886346e+00" type="0"/>
+    <Peak1D F1="7.449487" intensity="1.849114e+00" type="0"/>
+    <Peak1D F1="7.348912" intensity="2.147914e+00" type="0"/>
+    <Peak1D F1="3.308457" intensity="7.104051e+00" type="0"/>
+    <Peak1D F1="2.812159" intensity="7.267763e+00" type="0"/>
+    <Peak1D F1="2.606418" intensity="3.204981e+00" type="0"/>
+    <Peak1D F1="1.965259" intensity="5.456288e+00" type="0"/>
+    <Peak1D F1="1.532073" intensity="4.473742e+00" type="0"/>
+    <Peak1D F1="1.001679" intensity="1.500000e+01" type="0"/>
+  </PeakList1D>
+</PeakList>

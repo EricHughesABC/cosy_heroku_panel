@@ -1,0 +1,20 @@
+##TITLE= Audit trail, TopSpin 4.0.8
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ERIC
+$$ C:/Users/ERIC/OneDrive/gCOSY_01.fid/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-04-16 13:43:59.225 +0100>,<ERIC>,<ERIC-PC>,<vconv>,<TopSpin 4.0.8>,
+      <vconv created from
+       C:\Users\ERIC\OneDrive\2-ethyl-1-indanone\Feb14154743\gCOSY_01.fid
+       data hash MD5: 4520 * 512
+       2D EC E2 48 EB 43 C4 20 DA DE 14 1C 04 94 0A DF>)
+(   2,<2020-04-16 14:01:45.719 +0100>,<ERIC>,<ERIC-PC>,<proc2d>,<TopSpin 4.0.8>,
+      <Start of raw data processing
+       xfb F2: SI = 4K BC_mod = 2 WDW = 3 SSB = 0 FT_mod = 6 PKNL = 0 REVERSE PHC0 = -161.5001 PHC1 = 0 F1: SI = 512 WDW = 3 SSB = 0 FT_mod = 6 FCOR = 0.5 REVERSE PH_mod = 2 MC2 = 0
+       data hash MD5: 4K * 512
+       16 D5 08 2E FD 1A 0E 1C 74 54 78 5D 16 F1 3D E6>)
+##END=
+
+$$ hash MD5
+$$ E0 64 DC 80 6C E7 DA 39 68 0F E5 DD 13 C4 43 28

@@ -1,0 +1,9 @@
+panel
+hvplot
+scikit-image
+nmrglue
+matplotlib
+pandas
+numpy
+jupyter
+notebook
